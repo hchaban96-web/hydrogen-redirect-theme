@@ -10,7 +10,7 @@
 {
   "current": {
     "storefront_hostname": "mrkdwear.com",
-    "custom_redirects": "",
+    "custom_redirects": "/password > /",
     "integrate_with_customer_accounts": false
   },
   "presets": {}
